@@ -1,2 +1,2 @@
 # Venkat-Repositoy
-Repositoy
+First Git Repository created
